@@ -1,0 +1,17 @@
+*.pt
+*.pth
+*.ckpt
+*.tif
+*.tiff
+*.gpkg
+*.shp
+*.shx
+*.dbf
+*.prj
+*.zip
+sam_results/
+outputs/
+data/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
